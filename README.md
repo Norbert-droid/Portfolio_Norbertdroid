@@ -1,7 +1,7 @@
 # Portfolio_norbert_droid
 En este espacio se encuentra dedicado a mostrar las capacidades Norbert-droid aplicando conceptos de programación en varios lenguajes de programación y análisis de datos en varios campos del conocimiento.La estructura de los trabajos presentados aquí son:
 
-*Presentar un problema en finanzas.
+*Presentar un problema en la vida diaria.
 
 *Recolectar datos para entender el problema.
 
