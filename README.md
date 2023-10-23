@@ -1,5 +1,5 @@
-# Portfolio_programacion_finanzas
-En este espacio se encuentra dedicado a mostrar las capacidades Norbert-droid aplicando conceptos de programación en varios lenguajes de programación a las finanzas.La estructura de los trabajos presentados aquí son:
+# Portfolio_norbert_droid
+En este espacio se encuentra dedicado a mostrar las capacidades Norbert-droid aplicando conceptos de programación en varios lenguajes de programación y análisis de datos en varios campos del conocimiento.La estructura de los trabajos presentados aquí son:
 
 *Presentar un problema en finanzas.
 
